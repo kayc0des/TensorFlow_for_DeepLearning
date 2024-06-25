@@ -27,3 +27,16 @@
 ## What are neural networks?
 
 Neural networks are a class of machine learning algorithms inspired by the structure and function of the human brain. They consist of interconnected layers of nodes (or neurons) that work together to process data and learn patterns.
+
+## Folder
+
+In this folder, we are going to cover some of the most basic fundamental concepts of tensors using TensorFlow
+
+Outline:
+- Introduction to tensors: [00_tensors.ipynb](00_tensors.ipynb)
+- Getting information from tensors
+- Manipulating tensors
+- Tensors & Numpy
+- Using @tf.function
+- Using GPUs with TensorFlow (or TPUs)
+- Exercises
