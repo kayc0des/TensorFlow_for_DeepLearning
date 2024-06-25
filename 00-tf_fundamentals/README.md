@@ -1,5 +1,18 @@
 ### 'If you can build a simple rule-based system that doesn't require machine learning, do that.' - Rule 1 of [Google's Maching Learning Hanfbook](https://developers.google.com/machine-learning/guides/rules-of-ml)
 
+## Folder Outline
+
+In this folder, we are going to cover some of the most basic fundamental concepts of tensors using TensorFlow
+
+Outline:
+- Introduction to tensors and creating tensors [tf.constant()](00-tf_constant.ipynb) or [tf.Variable()](01-tf_Variable.ipynb)
+- Getting information from tensors
+- Manipulating tensors
+- Tensors & Numpy
+- Using @tf.function
+- Using GPUs with TensorFlow (or TPUs)
+- Exercises
+
 # Machine Learning and Deep Learning
 
 - **Machine learning** is turning data into numbers and finding patterns in those numbers. 
@@ -27,16 +40,3 @@
 ## What are neural networks?
 
 Neural networks are a class of machine learning algorithms inspired by the structure and function of the human brain. They consist of interconnected layers of nodes (or neurons) that work together to process data and learn patterns.
-
-## Folder
-
-In this folder, we are going to cover some of the most basic fundamental concepts of tensors using TensorFlow
-
-Outline:
-- Introduction to tensors: [00_tensors.ipynb](00_tensors.ipynb)
-- Getting information from tensors
-- Manipulating tensors
-- Tensors & Numpy
-- Using @tf.function
-- Using GPUs with TensorFlow (or TPUs)
-- Exercises
