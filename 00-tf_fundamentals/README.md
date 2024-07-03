@@ -1,4 +1,4 @@
-### 'If you can build a simple rule-based system that doesn't require machine learning, do that.' - Rule 1 of [Google's Maching Learning Hanfbook](https://developers.google.com/machine-learning/guides/rules-of-ml)
+### 'If you can build a simple rule-based system that doesn't require machine learning, do that.' - Rule 1 of [Google's Maching Learning Handbook](https://developers.google.com/machine-learning/guides/rules-of-ml)
 
 ## Folder Outline
 
